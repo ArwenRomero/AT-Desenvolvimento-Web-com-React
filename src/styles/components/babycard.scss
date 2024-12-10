@@ -1,0 +1,21 @@
+.baby-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    background-color: #f9f9f9;
+    text-align: center;
+    margin: 12px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.baby-card h3 {
+    margin: 0 0 8px;
+    font-size: 1.5em;
+    color: #333;
+}
+
+.baby-card p {
+    margin: 4px 0;
+    font-size: 1em;
+    color: #666;
+}

@@ -1,0 +1,9 @@
+{
+    "short_name": "BabyTrack",
+    "name": "Baby Track - Child Care Tracker",
+    "start_url": "/Baby-Track/",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#ffffff"
+}

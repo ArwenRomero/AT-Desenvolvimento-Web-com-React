@@ -1,0 +1,16 @@
+.alert {
+    .MuiSnackbar-root {
+      z-index: 1500;
+    }
+  
+    .MuiAlert-filledSuccess {
+      background-color: #45b1f5 !important;
+      color: white !important;
+    }
+  
+    .MuiAlert-filledError {
+      background-color: #f54242 !important;
+      color: white !important;
+    }
+  }
+  
